@@ -1,0 +1,13 @@
+npm install -g live-server
+KILL TERMINAL
+New TERMINAL
+index --> live-server
+scripts "test" --> "serve" : all the text --> "live-serve"
+npm scripts IF NOT SHOWN
+3 ...s next to explorer
+hit arrow next to serve scripts
+bottom right + icon new TERMINAL
+npm install sass --save-dev
+//"compile:scss": "sass scss/main.scss css/style.css -w"
+//hit play button in scripts at bottom left
+extension WINDOWS RESIZER
